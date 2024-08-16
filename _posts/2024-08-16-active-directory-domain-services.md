@@ -1,12 +1,12 @@
 ---
 title: "Active Directory Domain Services"
 layout: post
-date: 2024-08-03
+date: 2024-08-16
 feature_image: images/
 tags: [ad, activedirectory, networking]
 ---
 
-! NOTICE! Due to the nature of github pages, this page remains a draft until 8/10/24. 
+! NOTICE! Due to the nature of github pages, this page remains a draft until 9/01/24. 
 
 *Writeup summarizing my learning experience with Active Directory.*
 
