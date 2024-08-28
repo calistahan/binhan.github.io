@@ -2,7 +2,7 @@
 layout: page
 title: About this blog
 description: An about page for Yuki and her blog
-feature_image: images/hancalista.jpg
+feature_image: images/YukiHan.jpg
 ---
 
 **Yuki** is a current undergraduate student studying Cybersecurity. 
