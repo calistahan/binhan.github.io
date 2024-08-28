@@ -1,8 +1,8 @@
 ---
 title: "Active Directory Domain Services"
 layout: post
-date: 2024-08-16
-feature_image: images/
+date: 2024-08-27
+feature_image: images/activedirectory.png
 tags: [ad, activedirectory, networking]
 ---
 
