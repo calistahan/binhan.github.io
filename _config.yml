@@ -12,13 +12,13 @@ lang: en-US
 title: "Yuki's Blog"
 
 # A description of your site for meta tag, search engine results.
-description: "A personal blog of Bin's journey in Information Security."
+description: "A personal blog of Yuki's journey in Information Security."
 
 # The subpath of your site, e.g. /blog, for generating urls.
 baseurl: "/"
 
 # The base hostname & protocol of your site for where absolute urls are needed.
-url: "https://www.bitsandbytes.github.io"
+url: "https://www.yukisbitsandbytes.github.io"
 
 # Favicon
 favicon: images/android-chrome-192x192.png
