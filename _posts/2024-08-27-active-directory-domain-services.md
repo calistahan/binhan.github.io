@@ -6,7 +6,7 @@ feature_image: images/activedirectory.png
 tags: [ad, activedirectory, networking]
 ---
 
-! NOTICE! Due to the nature of github pages, this page remains a draft until 9/01/24. 
+! NOTICE! Due to the nature of github pages, this page remains a draft until 9/20/24. 
 
 *Writeup summarizing my learning experience with Active Directory.*
 
